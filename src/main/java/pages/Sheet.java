@@ -101,7 +101,8 @@ String dir = "D:\\DemoAuto\\Data2.xlsx";
 ////
 ////            closebtn.click();
 
-            //wait for page to come back to registration page after close button is clicked
+//            now i am studying git version control
+            //wait for page tgio come back to registration page after close button is clicked
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         }
 
