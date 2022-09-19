@@ -1,4 +1,4 @@
 package TestCases;
 
-public class mm {
+public class mo {
 }
